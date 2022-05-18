@@ -60,3 +60,5 @@ public class AreNumbersEqualTest {
     }
 
 }
+// (use "git add <file>..." to include in what will be committed)
+//        .idea/vcs.xml
